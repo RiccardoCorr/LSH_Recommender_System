@@ -1,4 +1,4 @@
-# LSH_Recommender_System
+# LSH_Recommendation_System
 
 Behavioral user data is a valuable resource for understanding audience patterns on Netflix, particularly in the context of UK movies. It offers insights into how viewers interact with the popular streaming platform, allowing researchers and data enthusiasts to explore trends, preferences, and patterns in user engagement with Netflix content. Whether you're interested in analyzing viewing habits, content popularity, or user demographics, this information provides a rich source to gain a deeper understanding of Netflix audience behavior in the United Kingdom.
 
